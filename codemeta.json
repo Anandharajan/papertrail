@@ -1,0 +1,19 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "PaperTrail",
+  "description": "Number-level provenance from experiment runs to manuscript, with stale/orphan detection.",
+  "version": "0.1.0",
+  "license": "https://spdx.org/licenses/MIT",
+  "programmingLanguage": "Python 3.11+",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Anandharajan",
+      "familyName": "TRV",
+      "email": "trvanandharajan@gmail.com",
+      "affiliation": "Department of ECE, St. Joseph College of Engineering, Sriperumbudur, Chennai 602117, India"
+    }
+  ],
+  "codeRepository": "https://github.com/Anandharajan/papertrail"
+}
