@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "papertrail"
-version = "0.1.0"
+version = "0.1.1"
 description = "Number-level provenance from experiment runs to manuscript, with stale/orphan detection."
 readme = "README.md"
 license = { text = "MIT" }

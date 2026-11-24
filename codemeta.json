@@ -3,7 +3,7 @@
   "@type": "SoftwareSourceCode",
   "name": "PaperTrail",
   "description": "Number-level provenance from experiment runs to manuscript, with stale/orphan detection.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "https://spdx.org/licenses/MIT",
   "programmingLanguage": "Python 3.11+",
   "author": [
