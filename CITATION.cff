@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "PaperTrail"
 abstract: "Number-level provenance from experiment runs to manuscript, with stale/orphan detection."
+doi: 10.5281/zenodo.24502507
 version: 0.1.1
 license: MIT
 authors:
